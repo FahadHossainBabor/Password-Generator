@@ -41,4 +41,4 @@ If you'd like to contribute to this project, please follow these steps:
 5. Your contributions will be reviewed, and upon approval, they will be merged.
 ---
 
-Feel free to use and modify this password generator for your needs. If you have any questions or suggestions, please don't hesitate to contact me at [your-email@example.com].
+Feel free to use and modify this password generator for your needs. If you have any questions or suggestions, please don't hesitate to contact me at fahadhossainbabor.cse.ruet@gmail.com.
